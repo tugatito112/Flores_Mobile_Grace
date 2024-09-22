@@ -1980,7 +1980,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   /* Resto de tus estilos */
-  top: 6%; /* Ajusta este valor para controlar la altura */
+  top: 5%; /* Ajusta este valor para controlar la altura */
   z-index: 1; /* Asegura que el texto esté por encima de las flores */
   font-family: 'Dancing Script', cursive;
   font-size: 700%;
@@ -2011,7 +2011,6 @@ body {
   font-weight: bold;
   border-radius: 10px;
   transform: translateX(+50%);
-  top: 10%; /* Ajusta este valor según tus necesidades */
   z-index: 1;
   font-family: 'Dancing Script', cursive;
   color: #000000;
@@ -2021,7 +2020,7 @@ body {
   text-align: center;
     /* ... otros estilos ... */
   position: absolute;
-  top: 15%;
-  right: 45%; /* Ajusta según sea necesario */
+  top: 16%;
+  right: 49%; /* Ajusta según sea necesario */
   z-index: 1;
 }
